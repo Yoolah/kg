@@ -389,3 +389,21 @@ input[type="tttt"]{
         flex-direction: column;
     }
 }
+@media screen and (max-width: 414px) {
+    .e{
+        max-width: 414px;
+        width: 100%;
+    }    
+}
+@media screen and (max-width: 374px){ 
+    .header{
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 412px) {
+    .d{
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
