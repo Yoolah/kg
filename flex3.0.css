@@ -348,7 +348,7 @@ input[type="tttt"]{
     padding-top: 40px;
 }
 .enn0 p{
-    margin: 15px;
+    padding: 15px;
 }
 .enn0 img{
     max-width: 46px;
@@ -404,6 +404,19 @@ input[type="tttt"]{
     
     .bebe h1{
         text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .nn0{
+        flex-direction: column;
+    }
+    .nn0 input{
+        width: 100%;
+        max-width: initial;
+    }
+    .enn1 p{
+        text-align: center;
+        font-size: 13px;
         padding-left: 10px;
         padding-right: 10px;
     }
